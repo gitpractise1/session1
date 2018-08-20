@@ -3,3 +3,4 @@ echo hello
 echo hw r u
 mkdir /home/uuuuuu
 hostname
+echo added
